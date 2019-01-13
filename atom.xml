@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>gyzhao&#39;s Blog | Thinking</title>
+  
+  <subtitle>Stay Hungry, Stay Foolish.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://www.gyzhao.me/"/>
+  <updated>2019-01-08T05:13:53.314Z</updated>
+  <id>http://www.gyzhao.me/</id>
+  
+  <author>
+    <name>gyzhao</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>软技能：十步学习法</title>
+    <link href="http://www.gyzhao.me/2016/11/07/Ten-Step-Learning-Method/"/>
+    <id>http://www.gyzhao.me/2016/11/07/Ten-Step-Learning-Method/</id>
+    <published>2016-11-07T04:35:55.000Z</published>
+    <updated>2019-01-08T05:13:53.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近看了一本蛮有意思的书《软技能: 代码之外的生存指南》，这本书从: 职业发展， 自我营销，学习，生产力，理财，健身，精神世界这7个维度来诠释作为一个软件开发人应该如何走向自己向往的生活。其中学习的主题，讲述了技术人员如何在当下技术日新月异的时代下更加有富有成效的快速学习，我觉得还挺适合我们技术开发人员的，总体来说就是在掌握适当基础(最小原则)之上如何利用实践来促进自己知识的消化吸收，再通过实践来加深自己对理论的理解。</p><a id="more"></a><p>最近看了一本蛮有意思的书《软技能: 代码之外的生存指南》，这本书从: 职业发展， 自我营销，学习，生产力，理财，健身，精神世界这7个维度来诠释作为一个软件开发人应该如何走向自己向往的生活。其中学习的主题，讲述了技术人员如何在当下技术日新月异的时代下更加有富有成效的快速学习，我觉得还挺适合我们技术开发人员的，总体来说就是在掌握适当基础(最小原则)之上如何利用实践来促进自己知识的消化吸收，再通过实践来加深自己对理论的理解。下面是我整理的《十步学习法》笔记，供大家参考：</p><h2 id="第一步到第六步：概览全局，设定目标，搜寻资源，创建计划"><a href="#第一步到第六步：概览全局，设定目标，搜寻资源，创建计划" class="headerlink" title="第一步到第六步：概览全局，设定目标，搜寻资源，创建计划"></a>第一步到第六步：概览全局，设定目标，搜寻资源，创建计划</h2><blockquote><p>集中精力完成足够的前期调研，确保自己明确知道学习的内容，以及如何确定自己达成目标，挑选最好的资源来帮助自己实现目标，制定学习计划。</p></blockquote><h3 id="第一步：了解全局"><a href="#第一步：了解全局" class="headerlink" title="第一步：了解全局"></a>第一步：了解全局</h3><p>首先对需要学习的课题进行一些基础性研究，对该主题有一个全局性的了解。</p><h3 id="第二步：确定范围"><a href="#第二步：确定范围" class="headerlink" title="第二步：确定范围"></a>第二步：确定范围</h3><p>根据自身的需求，决定学习的重点和学习的范围，在此阶段容易犯的一个错误就是：试图解决太大的问题而让自己陷入困境中。结合从第一步中获得的信息，明确自己的学习范围，尽可能的保持专注；同时也需要阐述自己的学习理由来帮助自己界定学习的范围。学习的范围务必大小适当，既能符合学习理由，有能符合自己的时间限制。</p><h3 id="第三步：定义目标"><a href="#第三步：定义目标" class="headerlink" title="第三步：定义目标"></a>第三步：定义目标</h3><p>确定自己的学习目标，明确学习完成后应该达成的效果，根据简明清晰的目标，勾勒出勤奋学习后成功的图景。成功的标准应该是具体的，无二义性的。</p><h3 id="第四步：寻找资源"><a href="#第四步：寻找资源" class="headerlink" title="第四步：寻找资源"></a>第四步：寻找资源</h3><p>尽可能的尝试多种渠道和方式获取尽可能多的和主题相关资源，该阶段无需考虑这些资源的质量。</p><h3 id="第五步：创建学习计划"><a href="#第五步：创建学习计划" class="headerlink" title="第五步：创建学习计划"></a>第五步：创建学习计划</h3><p>需要在最短的时间内找到正确的学习路径，并找到和到达路径中重要的地标。打造自己的学习计划，一个好的方法是观察别人是如何教授你感兴趣的主题的。通览收到到的全部资源，就可以对自己需要那些内容以及如何组织这些内容有更清晰的认识。</p><h3 id="第六步：筛选资源"><a href="#第六步：筛选资源" class="headerlink" title="第六步：筛选资源"></a>第六步：筛选资源</h3><p>对找到的资源进行筛选，挑选出最有价值的几项来帮助你实现自己的目标。</p><h2 id="第七步到第十步：循环往复"><a href="#第七步到第十步：循环往复" class="headerlink" title="第七步到第十步：循环往复"></a>第七步到第十步：循环往复</h2><blockquote><p>通过 “学习——实践——掌握——教授”(LDLT)的方式来真正领悟知识。通过掌握恰到好处的基础知识开始，通过动手实践来学习，同时通过自我探索收集问题。之后，掌握了足够多的有用知识。最后，将自己所学教给他人，以此来弥补自己在学习过程中的不足，同时通过深入思考巩固知识。</p></blockquote><h3 id="第七步：开始学习，浅尝辄止"><a href="#第七步：开始学习，浅尝辄止" class="headerlink" title="第七步：开始学习，浅尝辄止"></a>第七步：开始学习，浅尝辄止</h3><p>专注与掌握自己所需，能在下一步动手操作的最小量的知识。</p><h3 id="第八步：动手操作，边玩边学"><a href="#第八步：动手操作，边玩边学" class="headerlink" title="第八步：动手操作，边玩边学"></a>第八步：动手操作，边玩边学</h3><p>在掌握操作动手最小量的知识的情况下亲自操作和亲身体验。通过在探索和实践过程中，会产生的各种问题。这些问题会引导着你走向真正重要的方向。当回头寻找问题的答案时，不只是这些问题迎刃而解，而且你记得的东西比你学习的东西要多得多，因为你所学到的都是对你很重要的东西。</p><blockquote><p>把那些暂时还没有答案的问题记录下来，在下一步中就会有机会找出这些问题的答案。</p></blockquote><h3 id="第九步：全面掌握，学以致用"><a href="#第九步：全面掌握，学以致用" class="headerlink" title="第九步：全面掌握，学以致用"></a>第九步：全面掌握，学以致用</h3><p>好奇心是学习特别是自学的重要组成部分。为了有效利用自己选择的资料，为了上一步生产的问题寻求答案（带着问题学习）。不用担心回头再去操作，付出更多，因为这不仅能够让你找到问题的答案，也能让你学习新东西。给自己足够多的时间去深入理解自己的主题，你可以阅读，可以实验，可以观察，也可以操作。试着把自己正在学习的内容与最终目标关联起来。</p><h3 id="第十步：乐为人师，融会贯通"><a href="#第十步：乐为人师，融会贯通" class="headerlink" title="第十步：乐为人师，融会贯通"></a>第十步：乐为人师，融会贯通</h3><p>要想深入掌握一门学问，并且融会贯通，那么必须要做到能够教授给别人，在这一过程中，你要切实刨析并理解自己所学的知识，将其内化到自己的思想；同时，也要用能够让他人理解的方式精心组织这些信息。在这个过程中，你会发现很多自以为明白的知识点，其实并没有你想象的那么透彻。这一过程会将那些以前自己没太明白的东西联系起来，并简化到自己的大脑中已有的信息，将它们浓缩并经常复习。</p><h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><ul><li><a href="https://book.douban.com/subject/26835090/" target="_blank" rel="noopener">《软技能: 代码之外的生存指南》</a></li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近看了一本蛮有意思的书《软技能: 代码之外的生存指南》，这本书从: 职业发展， 自我营销，学习，生产力，理财，健身，精神世界这7个维度来诠释作为一个软件开发人应该如何走向自己向往的生活。其中学习的主题，讲述了技术人员如何在当下技术日新月异的时代下更加有富有成效的快速学习，我觉得还挺适合我们技术开发人员的，总体来说就是在掌握适当基础(最小原则)之上如何利用实践来促进自己知识的消化吸收，再通过实践来加深自己对理论的理解。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="读书笔记" scheme="http://www.gyzhao.me/categories/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+      <category term="方法论" scheme="http://www.gyzhao.me/tags/%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Ubuntu 15.4 安装 WebStorm</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Ubuntu-Install-WebStorm/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Ubuntu-Install-WebStorm/</id>
+    <published>2016-04-05T14:50:59.000Z</published>
+    <updated>2019-01-08T05:13:53.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>WebStorm是一个基于Java的跨平台的商业Web前端开发工具，这里告诉我们如何在Ubuntu中安装WebStorm。</p><a id="more"></a><h3 id="安装-Oracle-JDK"><a href="#安装-Oracle-JDK" class="headerlink" title="安装 Oracle JDK"></a>安装 Oracle JDK</h3><p>WebStorm是基于Java的,我们需要安装Oracle JDK的支持,使用如下命令来安装:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">sudo add-apt-repository ppa:webupd8team/java</span><br><span class="line">sudo apt-get update</span><br><span class="line">sudo apt-get install oracle-java7-installer</span><br><span class="line">sudo apt-get install oracle-java7-set-default</span><br></pre></td></tr></table></figure></p><p>运行命令查看是否安装成功:</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">java -version</span><br></pre></td></tr></table></figure><p>出现如下内容则表示安装成功:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">Picked up JAVA_TOOL_OPTIONS: -javaagent:/usr/share/java/jayatanaag.jar </span><br><span class="line">java version &quot;1.7.0_80&quot;</span><br><span class="line">Java(TM) SE Runtime Environment (build 1.7.0_80-b15)</span><br><span class="line">Java HotSpot(TM) 64-Bit Server VM (build 24.80-b11, mixed mode)</span><br></pre></td></tr></table></figure></p><h3 id="安装-WebStorm"><a href="#安装-WebStorm" class="headerlink" title="安装 WebStorm"></a>安装 WebStorm</h3><p>首先需要下载WebStrom的Linux安装包,地址如下:<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">https://www.jetbrains.com/webstorm/download/</span><br></pre></td></tr></table></figure></p><p>然后运行如下命令解压并安装并运行WebStorm:<br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">tar xfz ~/Downloads/WebStorm-10.0.4.tar.gz</span><br><span class="line"></span><br><span class="line">sudo mv ~/Downloads/WebStorm-141.1550 /opt/</span><br><span class="line"><span class="built_in">cd</span> /opt/WebStorm-141.1550/</span><br><span class="line"><span class="built_in">cd</span> bin/</span><br><span class="line">sh webstorm.sh</span><br></pre></td></tr></table></figure></p><h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><p><a href="https://www.jetbrains.com/webstorm/help/system-requirements-and-installation.html#d173174e222" target="_blank" rel="noopener">https://www.jetbrains.com/webstorm/help/system-requirements-and-installation.html#d173174e222</a><br><a href="http://stackoverflow.com/questions/16263556/installing-java-7-on-ubuntu" target="_blank" rel="noopener">http://stackoverflow.com/questions/16263556/installing-java-7-on-ubuntu</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;WebStorm是一个基于Java的跨平台的商业Web前端开发工具，这里告诉我们如何在Ubuntu中安装WebStorm。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://www.gyzhao.me/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="WebStorm" scheme="http://www.gyzhao.me/tags/WebStorm/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多账户Github SSH Key 管理</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Multiple-Accounts-Github/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Multiple-Accounts-Github/</id>
+    <published>2016-04-05T13:40:59.000Z</published>
+    <updated>2019-01-13T11:46:28.269Z</updated>
+    
+    <content type="html"><![CDATA[<p>同一台PC中使用多个<code>SSH Key</code>是一个非常常见的场景，比如说有多个GitHub账户，或者说有需要连接多个不同的Git服务器，比如说Github是存放开源的项目的仓库，而私人的项目可能是放在Bitbucket上的，或者说除了这些还需要连接公司的Git服务器等。这时候我们需要对<code>SSH Key</code> 进行配置才能正确的使我们在多个Git服务器中来去自如。</p><a id="more"></a><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>同一台PC中使用多个<code>SSH Key</code>是一个非常常见的场景，比如说有多个GitHub账户，或者说有需要连接多个不同的Git服务器，比如说Github是存放开源的项目的仓库，而私人的项目可能是放在Bitbucket上的，或者说除了这些还需要连接公司的Git服务器等。这时候我们需要对<code>SSH Key</code> 进行配置才能正确的使我们在多个Git服务器中来去自如。</p><h3 id="创建新的SSH-key"><a href="#创建新的SSH-key" class="headerlink" title="创建新的SSH key"></a>创建新的SSH key</h3><p>假设现在电脑里面已经存在一个<code>SSH Key</code>了，现在我们使用命令行来新增一个，注意保存时需要定义一个新的名称，不能把原来的<code>SSH Key</code>给覆盖了，具体生成参考Github提供的文档：<br><a href="https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/" target="_blank" rel="noopener">Generating a new SSH key and adding it to the ssh-agent</a></p><h3 id="创建config文件"><a href="#创建config文件" class="headerlink" title="创建config文件"></a>创建config文件</h3><p>在<code>.ssh</code>文件夹中创建一个<code>config</code>文件，内容如下所示：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">Host github.com</span><br><span class="line">    HostName github.com </span><br><span class="line">    PreferredAuthentications publickey </span><br><span class="line">    IdentityFile ~/.ssh/id_rsa</span><br><span class="line"></span><br><span class="line"># 新增加的SSH Key</span><br><span class="line">Host example.github.com</span><br><span class="line">    HostName github.com</span><br><span class="line">    PreferredAuthentications publickey</span><br><span class="line">    IdentityFile ~/.ssh/example</span><br></pre></td></tr></table></figure><p>可以使用ssh命令来测试<code>SSH key</code>的可用性：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">ssh -vT git@github.com</span><br><span class="line">ssh -vT git@example.github.com</span><br></pre></td></tr></table></figure><blockquote><p>注意大小写，例如：<a href="mailto:`git@github.com" target="_blank" rel="noopener">`git@github.com</a><code>，写成：</code><a href="mailto:git@Github.com" target="_blank" rel="noopener">git@Github.com</a><code>会连接失败。要和</code>config`文件中名称一致。</p></blockquote><h3 id="使用新的SSH-Key"><a href="#使用新的SSH-Key" class="headerlink" title="使用新的SSH Key"></a>使用新的SSH Key</h3><p>clone仓库时，只需要将主机名替换为<code>config</code>文件中配置<code>Host</code>的值即可：</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git@github.com:UserName/projectExample.git</span><br></pre></td></tr></table></figure><p>修改为：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git@example.github.com:UserName/projectExample.git</span><br></pre></td></tr></table></figure></p><h3 id="参考-amp-进一步阅读"><a href="#参考-amp-进一步阅读" class="headerlink" title="参考&amp;进一步阅读"></a>参考&amp;进一步阅读</h3><p><a href="http://stackoverflow.com/questions/3225862/multiple-github-accounts-ssh-config" target="_blank" rel="noopener">stackoverflow: Multiple github accounts ssh config</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;同一台PC中使用多个&lt;code&gt;SSH Key&lt;/code&gt;是一个非常常见的场景，比如说有多个GitHub账户，或者说有需要连接多个不同的Git服务器，比如说Github是存放开源的项目的仓库，而私人的项目可能是放在Bitbucket上的，或者说除了这些还需要连接公司的Git服务器等。这时候我们需要对&lt;code&gt;SSH Key&lt;/code&gt; 进行配置才能正确的使我们在多个Git服务器中来去自如。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="工具技巧" scheme="http://www.gyzhao.me/categories/%E5%B7%A5%E5%85%B7%E6%8A%80%E5%B7%A7/"/>
+    
+    
+      <category term="GitHub" scheme="http://www.gyzhao.me/tags/GitHub/"/>
+    
+      <category term="SSH" scheme="http://www.gyzhao.me/tags/SSH/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>磁盘、分区、MBR与GPT</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Disk-Partition-MBR-GPT/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Disk-Partition-MBR-GPT/</id>
+    <published>2016-04-05T05:48:41.000Z</published>
+    <updated>2019-01-13T11:41:17.760Z</updated>
+    
+    <content type="html"><![CDATA[<p>Linux 所有设备都被抽象为一个文件，保存在<code>/dev</code>目录下，同时将一个磁盘逻辑分为几个区，每个区当作独立的磁盘，以方便使用和管理。</p><a id="more"></a><h3 id="磁盘在LINUX中的表示"><a href="#磁盘在LINUX中的表示" class="headerlink" title="磁盘在LINUX中的表示"></a>磁盘在LINUX中的表示</h3><ul><li>Linux所有设备都被抽象为一个文件，保存在/dev目录下</li><li>设备名称一般为<code>hd[a-z]</code>或者<code>sd[a-z]</code>([a-z]为分区号)，如：hda、hdb、sda、sdb</li><li>IDE设备的名称为<code>hd[a-z]</code>，STAT、SCSI、SAS、USB等设备名称为<code>sd[a-z]</code></li></ul><h3 id="分区概念"><a href="#分区概念" class="headerlink" title="分区概念"></a>分区概念</h3><p>将一个磁盘逻辑分为几个区，每个区当作独立的磁盘，以方便使用和管理。</p><p>不同分区使用：设备名称+分区号 方式表示，如：sda1、sda2.</p><p>主流的分区机制为MBR和GPT两种。</p><h4 id="MBR"><a href="#MBR" class="headerlink" title="MBR"></a>MBR</h4><p><code>MBR</code>(Master Boot Record)是传统的分区机制，应用于绝大多数使用BIOS的PC设备。MBR有如下特点：</p><ul><li>MBR支持 32 bit和 64 bit 系统</li><li>MBR支持分区数量有限</li><li>MBR只支持不超过2T的硬盘，超过2T的硬盘将只能用2T空间(有第三方解决方案)</li></ul><p>MBR结构如下：</p><p><img src="https://github.com/gyzhao/image-gallery/blob/master/linux/Master_Boot_Record.jpg?raw=true" alt="MBR structure"></p><p><strong>MBR分区</strong></p><ul><li>最多只能创建4个主分区</li><li>一个扩展分区会占用一个主分区位置</li><li>Linux最大支持63个 IDE`分区和15个 SCSI 分区</li></ul><h4 id="GPT-分区"><a href="#GPT-分区" class="headerlink" title="GPT 分区"></a>GPT 分区</h4><p><code>GPT</code>(GUID Partition Table)是一个较新的分区机制，解决了 <code>MBR</code> 很多的缺点，特点如下：</p><ul><li>支持超过2T的磁盘</li><li>后向兼容 MBR</li><li>必须在支持 UEFI 的硬件上才能使用</li><li>必须使用 64 bit系统</li><li>MAC、Linux系统都支持 GPT 分区格式</li><li>Windows 7 64bit、WindowsServer2008 64 bit 也支持 GPT</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Linux 所有设备都被抽象为一个文件，保存在&lt;code&gt;/dev&lt;/code&gt;目录下，同时将一个磁盘逻辑分为几个区，每个区当作独立的磁盘，以方便使用和管理。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="磁盘分区" scheme="http://www.gyzhao.me/tags/%E7%A3%81%E7%9B%98%E5%88%86%E5%8C%BA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Vim编辑器</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Use-Vim-Editor/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Use-Vim-Editor/</id>
+    <published>2016-04-05T05:46:26.000Z</published>
+    <updated>2019-01-08T05:13:53.314Z</updated>
+    
+    <content type="html"><![CDATA[<p>Vim是从vi发展而来的文本编辑器。vi是Linux及类Unix系统中主流的命令行文本编辑器，Vim除了对vi功能上进行了加强，还加入了对GUI的支持。</p><a id="more"></a><p>Vim是从vi发展而来的文本编辑器。vi是Linux及类Unix系统中主流的命令行文本编辑器，Vim 除了对vi功能上进行了加强，还加入了对GUI的支持。</p><h3 id="使用-Vim"><a href="#使用-Vim" class="headerlink" title="使用 Vim"></a>使用 Vim</h3><p>绝大多数的Linux系统上均安装了vim，vim比vi的功能更强大，所有一般情况建议使用Vim而非vi，且二者的使用方法基本相同。</p><h4 id="启动-Vim"><a href="#启动-Vim" class="headerlink" title="启动 Vim"></a>启动 Vim</h4><ul><li>命令vim可以启动vim编辑器</li><li>一般可以通过<code>vim + 目标文件路径</code>，如果文件存在则打开文件，不存在则创建文件</li></ul><h4 id="vim的三种工作模式"><a href="#vim的三种工作模式" class="headerlink" title="vim的三种工作模式"></a>vim的三种工作模式</h4><ul><li>命令模式（常规模式）</li></ul><blockquote><p>启动 Vim 后默认进行命令模式，任何模式都可以通过 <code>esc</code> 键回到命令模式(可以多按几次)。命令模式下可以通过键入不同的命令完成选择、复制、粘贴、撤销等操作</p></blockquote><ul><li>插入模式</li></ul><blockquote><p>在命令模式下按<code>i</code>键，即可进入插入模式，在该模式下可以输入编辑文本内容，使用 <code>esc</code> 键可以返回命令模式</p></blockquote><ul><li>ex模式</li></ul><blockquote><p>在命令模式中按<code>:</code>键可以进入该模式，光标会移到到底部，着这里可以保持修改或推迟 Vim</p></blockquote><h4 id="命令模式常用指令"><a href="#命令模式常用指令" class="headerlink" title="命令模式常用指令"></a>命令模式常用指令</h4><ul><li><code>i</code>     插入</li><li><code>o</code>    在当前行下插入新行</li><li><code>dd</code>   删除当前行</li><li><code>yy</code>   复制一行</li><li><code>yy + n</code>   复制一行</li><li><code>p</code>    粘贴</li><li><code>u</code>    撤销上一个操作</li><li><code>r</code>    替换当前字符</li><li><code>/</code>    搜索(搜索出结果后按n切换选择结果)</li></ul><h4 id="ex模式常用命令"><a href="#ex模式常用命令" class="headerlink" title="ex模式常用命令"></a><code>ex</code>模式常用命令</h4><ul><li><code>:w</code>     保存修改</li><li><code>:q</code>     退出</li><li><code>:q!</code>     强制退出，不保存修改</li><li><code>:x</code>     保存并退出，相当于<code>:wq</code></li><li><code>:set number</code>   显示行号</li><li><code>:!</code>      执行系统命令</li><li><code>:sh</code>    切换到命令行，使用 <code>ctrl + d</code> 切换回vim</li></ul><h3 id="参考-amp-进一步阅读"><a href="#参考-amp-进一步阅读" class="headerlink" title="参考&amp;进一步阅读"></a>参考&amp;进一步阅读</h3><p><a href="http://coolshell.cn/articles/5426.html" target="_blank" rel="noopener">简明 Vim 练级攻略</a><br><a href="http://coolshell.cn/tag/vim" target="_blank" rel="noopener">http://coolshell.cn/tag/vim</a><br><a href="http://www.ituring.com.cn/article/15972" target="_blank" rel="noopener">谁说Vim不是IDE</a><br><a href="http://itercast.com/library/1/course/8" target="_blank" rel="noopener">Vim文本编辑器</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Vim是从vi发展而来的文本编辑器。vi是Linux及类Unix系统中主流的命令行文本编辑器，Vim除了对vi功能上进行了加强，还加入了对GUI的支持。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="Vim" scheme="http://www.gyzhao.me/tags/Vim/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 系统常用命令</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Linux-Common-Commands/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Linux-Common-Commands/</id>
+    <published>2016-04-05T05:41:04.000Z</published>
+    <updated>2019-01-08T05:13:53.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>介绍了Linux 系统中一些很常用的命令，包括：日期时间，输入查看，关机重启，归档和压缩以及查找文件等。</p><a id="more"></a><h4 id="日期时间"><a href="#日期时间" class="headerlink" title="日期时间"></a>日期时间</h4><p><code>date</code>命令：显示当前时间日期</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">date -u            <span class="comment"># 显示格林威治(UTC)事件</span></span><br><span class="line">date +%Y-%m-%d     <span class="comment"># 格式显示日期</span></span><br><span class="line">date -s <span class="string">'20:25:25'</span> <span class="comment"># 修改系统时间，需要使用root用户</span></span><br></pre></td></tr></table></figure><p><code>hwclock</code>(<code>clock</code>)命令：显示硬件时钟</p><p><code>cal</code>命令：显示日历</p><p><code>uptime</code>命令：显示系统运行时间(启动时间)</p><h4 id="输出和查看"><a href="#输出和查看" class="headerlink" title="输出和查看"></a>输出和查看</h4><p><code>echo</code>命令：显示输入内容</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">echo</span> <span class="string">'内容'</span> <span class="comment"># 输入什么就显示什么</span></span><br><span class="line"><span class="built_in">echo</span> <span class="string">'内容'</span> &gt;&gt; 指定位置文件 <span class="comment"># 将内容追加到文件中</span></span><br></pre></td></tr></table></figure><p><code>cat</code>命令：查看指定文件的内容</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">cat 指定文件</span><br></pre></td></tr></table></figure><p><code>head</code>命令：查看指定文件头内容(默认10行)</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">head -5 <span class="comment"># 显示前面5行</span></span><br></pre></td></tr></table></figure><p><code>tail</code>命令：查看指定文件末尾内容(默认10行)</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">tail -5 <span class="comment"># 显示最后五行</span></span><br><span class="line">tail -f <span class="comment"># 追踪文件更新(一般用于查看日志，命令不会退出，而是持续显示新追加内容)</span></span><br></pre></td></tr></table></figure><p><code>more</code>命令：以翻页形式查看指定文件内容（只可向下翻页）</p><blockquote><p>只显示文件的第一页，如果有多页，使用空格进行翻页</p></blockquote><p><code>less</code>命令：以翻页形式查看指定文件内容（可上下翻页）</p><blockquote><p>只显示文件的第一页，如果有多页使用空格进行翻页。使用光标的上下键(<code>Page Up</code> 和<code>Page Down</code>也可)向上或下翻页，键入<code>q</code>退出</p></blockquote><h4 id="查看硬件信息"><a href="#查看硬件信息" class="headerlink" title="查看硬件信息"></a>查看硬件信息</h4><p><code>lspci</code>命令：查看PCI设备信息</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lspci -v <span class="comment"># 查看详细信息</span></span><br></pre></td></tr></table></figure><p><code>lsusb</code>命令：查看USB设备信息</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">lsusb -v <span class="comment"># 查看详细信息</span></span><br></pre></td></tr></table></figure><p><code>lsmod</code>命令：查看加载的模块(驱动)</p><h4 id="关机和重启"><a href="#关机和重启" class="headerlink" title="关机和重启"></a>关机和重启</h4><p><code>shutdown</code>命令：关机、重启、休眠（可定时）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">shutdown -h <span class="comment"># 关闭计算机</span></span><br><span class="line">shutdown -h +15 <span class="comment"># 15分钟后关机</span></span><br><span class="line">shutdown -h 8:01 <span class="comment"># 8点1分关机</span></span><br><span class="line">shutdown -r <span class="comment"># 重新启动</span></span><br><span class="line">shutdown -r now <span class="comment"># 立即重启</span></span><br></pre></td></tr></table></figure><p><code>reboot</code>命令：立即重启</p><p><code>poweroff</code>命令：立即关机</p><h4 id="归档和压缩"><a href="#归档和压缩" class="headerlink" title="归档和压缩"></a>归档和压缩</h4><p><code>zip</code>命令：创建zip压缩文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">zip test.zip fileName <span class="comment"># 将文件压缩为test.zip</span></span><br></pre></td></tr></table></figure><p><code>unzip</code>命令：解压缩zip压缩文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">unzip fileName <span class="comment"># 如果当前目录已存在解压后的文件，可以选择是覆盖还是重命名</span></span><br></pre></td></tr></table></figure><p><code>gzip</code>命令：创建gzip格式压缩文件</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">gzip fileName <span class="comment"># 压缩一个文件</span></span><br></pre></td></tr></table></figure><p><code>tar</code>命令：创建归档文件（一般用于备份，可与gzip一起执行创建归档压缩文件）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">tar -cvf test.tar /etc <span class="comment"># 将etc这个文件夹进行归档</span></span><br><span class="line">tar -xvf test.tar <span class="comment"># 释放一个归档，将test.tar这个归档文件释放</span></span><br><span class="line">tar -cvzf test.tar.gz /etc <span class="comment"># 将etc这文件夹归档并压缩</span></span><br></pre></td></tr></table></figure><p>归档的时候文件所占用的空间并没有变小，归档时，可以通过<code>gzip</code>将文件夹归档并压缩:通过<code>-cvzf</code>参数中的<code>z</code>参数</p><h4 id="查找文件"><a href="#查找文件" class="headerlink" title="查找文件"></a>查找文件</h4><p><code>locate</code>命令：快速查找文件（需要特定数据库支持，非实时更新，可通过<code>updatedb</code>命令手工更新数据库）</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">locate keyword <span class="comment"># 查看包含所有包含提供关键字的文件名</span></span><br></pre></td></tr></table></figure><p><code>find</code>命令：功能强大的实时查找命令(可以指定很多规则)，可支持多条件查找，但速度慢</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">find  查找位置 查找参数</span><br><span class="line">find . -name *linux* <span class="comment"># 查找当前位置，基于文件名：当前位置所有包含linux关键字的文件</span></span><br><span class="line">find / -name *.conf <span class="comment"># 查找整个根分区中的所有以.conf结尾的文件</span></span><br><span class="line">find / -perm 777 <span class="comment"># 查找根分区下所有权限是777的文件</span></span><br><span class="line">find / -<span class="built_in">type</span> d <span class="comment"># 查找根目录下的所有目录(d，表示目录，type表示类型)</span></span><br><span class="line">find . -name <span class="string">"a*"</span> -<span class="built_in">exec</span> ls -l &#123;&#125; \; <span class="comment">#查询的返回结果执行ls -l(可自定义)这命令</span></span><br></pre></td></tr></table></figure><h3 id="参考资料-amp-进一步阅读"><a href="#参考资料-amp-进一步阅读" class="headerlink" title="参考资料&amp;进一步阅读"></a>参考资料&amp;进一步阅读</h3><p><a href="http://itercast.com/lecture/26" title="shell" target="_blank" rel="noopener">Linux系统常用命令</a></p><p><a href="http://www.ruanyifeng.com/blog/2009/10/5_ways_to_search_for_files_using_the_terminal.html" title="shell find" target="_blank" rel="noopener">Linux的五个查找命令</a></p><p><a href="http://www.cnblogs.com/skynet/archive/2010/12/25/1916873.html" title="shell find" target="_blank" rel="noopener">linux中强大且常用命令：find、grep</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;介绍了Linux 系统中一些很常用的命令，包括：日期时间，输入查看，关机重启，归档和压缩以及查找文件等。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="Bash" scheme="http://www.gyzhao.me/tags/Bash/"/>
+    
+      <category term="常用命令" scheme="http://www.gyzhao.me/tags/%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 基本的文件管理操作</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Linux-FS-Manager/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Linux-FS-Manager/</id>
+    <published>2016-04-05T05:36:31.000Z</published>
+    <updated>2019-01-08T05:13:53.313Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里介绍了在Linux中如何使用命令来对文件进行最基础的文件管理操作。</p><a id="more"></a><h3 id="复制文件和目录"><a href="#复制文件和目录" class="headerlink" title="复制文件和目录"></a>复制文件和目录</h3><p>在Linux中使用命令<code>cp</code>来复制文件或者目录，使用方式：</p><pre><code>cp 源文件(文件夹)  目标文件(文件夹)</code></pre><p><code>cp</code>命令常用参数：</p><ul><li><code>-r</code>  递归复制整个目录</li><li><code>-v</code>  显示详细信息</li></ul><h3 id="移动、重命名一个文件或目录"><a href="#移动、重命名一个文件或目录" class="headerlink" title="移动、重命名一个文件或目录"></a>移动、重命名一个文件或目录</h3><p>使用<code>mv</code>命令来移动或者重命名一个文件夹以及目录，使用方式：</p><pre><code>mv 源文件(文件夹) 目标目录</code></pre><p>移动时如果<strong>指定文件名</strong>，则会进行<strong>重命名</strong></p><h3 id="删除文件或目录"><a href="#删除文件或目录" class="headerlink" title="删除文件或目录"></a>删除文件或目录</h3><p>使用命令<code>rm</code>用以删除一个文件或文件夹，使用方式：</p><pre><code>rm 文件/文件夹</code></pre><p><code>rm</code>命令常用参数：</p><ul><li>-i   交互式删除</li><li>-r   递归删除文件夹下所有文件</li><li>-f   强制删除，不提示（慎用）</li></ul><h3 id="创建和删除空目录"><a href="#创建和删除空目录" class="headerlink" title="创建和删除空目录"></a>创建和删除空目录</h3><p>使用命令<code>mkdir</code>可以创建一个空目录</p><pre><code>mkdir 目录名称</code></pre><p>使用命令<code>rmdir</code>可以删除一个空目录</p><pre><code>rmdir 目录名称</code></pre><p>如果是需要删除包含文件的目录的话还是要使用<code>rm -r</code>命令</p><h3 id="参考资料-amp-进一步阅读"><a href="#参考资料-amp-进一步阅读" class="headerlink" title="参考资料&amp;进一步阅读"></a>参考资料&amp;进一步阅读</h3><p><a href="http://www.gnu.org/software/bash/manual/bashref.html" title="bash manual" target="_blank" rel="noopener">Bash manual</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;这里介绍了在Linux中如何使用命令来对文件进行最基础的文件管理操作。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="文件管理" scheme="http://www.gyzhao.me/tags/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux 文件系统的基本结构</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Linux-FS-Layout/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Linux-FS-Layout/</id>
+    <published>2016-04-05T04:35:52.000Z</published>
+    <updated>2019-01-13T11:43:38.063Z</updated>
+    
+    <content type="html"><![CDATA[<p>Linux文件系统为一个倒置的树状结构，所有文件或文件夹均包含在一个根目录<code>/</code>中。</p><a id="more"></a><h3 id="Linux-文件系统概况"><a href="#Linux-文件系统概况" class="headerlink" title="Linux 文件系统概况"></a>Linux 文件系统概况</h3><p>Linux文件系统为一个倒置的树状结构，所有文件或文件夹均包含在一个根目录<code>/</code>中。如图所示(注:根目录下应该还有一个media目录，每个目录的作用可以参考:<a href="http://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E6%A0%87%E5%87%86#.E7.9B.AE.E5.BD.95.E7.BB.93.E6.9E.84" target="_blank" rel="noopener">Linux目录结构说明</a>)：</p><p><img src="https://github.com/gyzhao/image-gallery/blob/master/linux/FS-layout.jpg?raw=true" alt=""></p><p>Linux系统严格区分大小写所以在Linux中:一个名为“A”的文件夹和一个名为“a”的文件夹是不同的两个文件夹，这点和Windows系统所有不同。</p><h4 id="查看目录信息"><a href="#查看目录信息" class="headerlink" title="查看目录信息"></a>查看目录信息</h4><p>每一个Shell都有一个当前的工作目录，通过命令<code>pwd</code>可以查看当前工作目录</p><p>命令<code>ls</code>可以列出当前目录信息，支持以下参数：</p><ul><li><code>ls -a</code>      显示所有文件</li><li><code>ls -l</code>      显示文件的详细信息</li><li><code>ls -R</code>      递归显示子目录信息</li><li><code>ls -ld</code>     显示目录及链接信息</li></ul><h4 id="查看文件信息"><a href="#查看文件信息" class="headerlink" title="查看文件信息"></a>查看文件信息</h4><p>对于Linux来说文件夹和文件是没有区别的，命令<code>file</code>可以用来查看指定文件的文件类型</p><p>Linux文件名称的一些规则：</p><ul><li>文件名称大小写敏感</li><li>名称最多可以为255个字符</li><li>除了正斜线(<code>/</code>)都是有效字符</li><li>通过touch命令可以创建一个空白文件，或者更新文件(已有的)的时间</li><li>以点(<code>.</code>)开头的文件为隐藏文件(通过<code>ls -a</code>查看)</li></ul><h4 id="绝对路径和相对路径"><a href="#绝对路径和相对路径" class="headerlink" title="绝对路径和相对路径"></a>绝对路径和相对路径</h4><p>Linux目录管理使用绝对路径与相对路径两个概念：</p><ul><li>绝对路径 —— 以根目录<code>/</code>为起点，递归每一级目录直到目标文件/文件夹，如：<code>/etc/passwd</code></li><li>相对路径 —— 以当前目录为起点，到达目标文件/文件夹的路径，如：<code>./../etc/passwd</code></li></ul><p><strong>相对路径</strong>基本定义：</p><ul><li><code>..</code>代表上级目录</li><li><code>.</code>代表当前目录</li><li><code>~</code>代表当前用户家(<code>home</code>)目录，</li><li><code>-</code>代表上一个工作目录</li></ul><h3 id="参考资料-amp-进一步阅读"><a href="#参考资料-amp-进一步阅读" class="headerlink" title="参考资料&amp;进一步阅读"></a>参考资料&amp;进一步阅读</h3><p><a href="http://zh.wikipedia.org/wiki/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84%E6%A0%87%E5%87%86" title="文件系统结构标准" target="_blank" rel="noopener">Linux文件系统层次结构标准</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Linux文件系统为一个倒置的树状结构，所有文件或文件夹均包含在一个根目录&lt;code&gt;/&lt;/code&gt;中。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="文件系统" scheme="http://www.gyzhao.me/tags/%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Bash 的基本操作</title>
+    <link href="http://www.gyzhao.me/2016/04/05/Bash-Basic-Operation/"/>
+    <id>http://www.gyzhao.me/2016/04/05/Bash-Basic-Operation/</id>
+    <published>2016-04-05T04:30:52.000Z</published>
+    <updated>2019-01-13T11:36:33.474Z</updated>
+    
+    <content type="html"><![CDATA[<p>Shell（壳）是用户与操作系统底层（通常是内核）之间交互的中介程序，负责将用户指令、操作传递给操作系统底层。</p><a id="more"></a><h3 id="Shell-是什么"><a href="#Shell-是什么" class="headerlink" title="Shell 是什么"></a>Shell 是什么</h3><p>Shell（壳）是用户与操作系统底层（通常是内核）之间交互的中介程序，负责将用户指令、操作传递给操作系统底层。</p><blockquote><p>Shell一般分为：图形化Shell（<code>GUI</code>）、命令行Shell（<code>CLI</code>），Linux中一般默认GUI为：GNOME，默认CLI为：<strong>BASH</strong></p></blockquote><h3 id="BASH"><a href="#BASH" class="headerlink" title="BASH"></a>BASH</h3><p>绝大多数Linux发现版都使用BASH作为其默认的CLI。打开Terminal，如图：</p><p>BASH提示符以<code>#</code>或<code>$</code>起始，#代表当前用户为root用户，<code>$</code>代表当前用户为普通用户</p><p><img src="https://github.com/gyzhao/image-gallery/blob/master/linux/CLI_BASH.png?raw=true" alt="bash"></p><h4 id="命令行的组成"><a href="#命令行的组成" class="headerlink" title="命令行的组成"></a>命令行的组成</h4><p>命令行一般由3个部分组成：</p><ul><li>命令</li><li>选项</li><li>参数</li></ul><h4 id="TAB键自动补全"><a href="#TAB键自动补全" class="headerlink" title="TAB键自动补全"></a>TAB键自动补全</h4><ul><li>Tab按键对命令或文件名进行自动补全</li><li>Tab键不能自动补齐参数</li></ul><h4 id="历史命令记录"><a href="#历史命令记录" class="headerlink" title="历史命令记录"></a>历史命令记录</h4><p>BASH会记录我们以往操作的命令，可以通<code>过history</code>命令查看。</p><p>BASH可以通过以下方式调用历史记录以简化操作：</p><ul><li><code>!!</code>          重复前一个命令</li><li><code>!</code>字符       重复前一个以指定字符开头的命令</li><li><code>!num</code>        按历史记录序号执行命令</li><li><code>!?abc</code>       重复之前包含abc的命令</li><li><code>!-n</code>         重复n个命令之前那个命令</li></ul><h4 id="搜索历史命令记录"><a href="#搜索历史命令记录" class="headerlink" title="搜索历史命令记录"></a>搜索历史命令记录</h4><p>通过 <code>ctrl</code> + <code>r</code> 来对历史记录进行搜索查询</p><h4 id="使用通配符"><a href="#使用通配符" class="headerlink" title="使用通配符"></a>使用通配符</h4><p>BASH Shell支持以下通配符</p><ul><li><code>*</code>     匹配零个或多个</li><li><code>?</code>     匹配任意一个字符</li><li><code>[0-9]</code> 匹配一个数字范围</li><li><code>[abc]</code> 匹配一个列表中的任何字符</li><li><code>[^abc]</code>匹配列表以外的字符</li></ul><h4 id="切换用户"><a href="#切换用户" class="headerlink" title="切换用户"></a>切换用户</h4><ul><li><code>su</code> - 切换到root用户并使用一个新的运行环境</li><li><code>sudo</code> 使用管理员有身份运行命令</li><li><code>id</code>   显示当前用户信息</li><li><code>passwd</code> 修改当前用户密码</li></ul><h4 id="管理后台作业"><a href="#管理后台作业" class="headerlink" title="管理后台作业"></a>管理后台作业</h4><p><strong>后台运行</strong>：如果需要在后台运行程序可以在命令后加一个<code>&amp;</code>即可。</p><p><strong>暂停程序</strong>：通过<code>Ctrl</code> + <code>z</code> 或者发送信号<code>17</code>，即可暂停某个程序</p><p>通过以下命令可以管理后台作业：</p><ul><li><code>jobs</code>  显示后台作业</li><li><code>fg</code>    将后台作业调到前台执行</li><li><code>bg</code>    继续执行一个后台作业</li></ul><h3 id="参考资料-amp-进一步阅读"><a href="#参考资料-amp-进一步阅读" class="headerlink" title="参考资料&amp;进一步阅读"></a>参考资料&amp;进一步阅读</h3><p><a href="http://zh.wikipedia.org/wiki/%E6%AE%BC%E5%B1%A4" title="shell" target="_blank" rel="noopener">Shell</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Shell（壳）是用户与操作系统底层（通常是内核）之间交互的中介程序，负责将用户指令、操作传递给操作系统底层。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Linux" scheme="http://www.gyzhao.me/categories/Linux/"/>
+    
+    
+      <category term="Bash" scheme="http://www.gyzhao.me/tags/Bash/"/>
+    
+  </entry>
+  
+</feed>
